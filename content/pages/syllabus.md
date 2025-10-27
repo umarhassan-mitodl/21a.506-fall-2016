@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the course meeting times, a course description,
   learning objectives, a grading policy, and reading materials info.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -140,13 +138,13 @@ There are two required books for this class:
 
 Schudson, Michael. _The Good Citizen: A History of American Civic Life_. Free Press, 2011. ISBN: 9781451631623.
 
-Nielsen, Rasmus Kleis. _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with [Google Books](http://books.google.com/books?id=D0QjX9gn-q4C&pg=PAfrontcover)\]
+Nielsen, Rasmus Kleis. _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with {{% resource_link "fa3e238d-2a52-437a-86c1-5375afb63a9c" "Google Books" %}}\]
 
 Other readings for the class can be found in the table in the {{% resource_link 175cb06c-0dff-433a-4348-be5233ecbecd "Readings" %}} section.
 
 Citations
 ---------
 
-Plagiarism is a serious offense. If you're borrowing exact words from an author, use quotation marks, and include the source in parentheses thereafter (author's last name, year: page number). If you're paraphrasing, include the source you're borrowing ideas from in parentheses (author's last name, year). For more information on citation formats, check out the [Chicago Manual of Style Online](http://www.chicagomanualofstyle.org/home.html).
+Plagiarism is a serious offense. If you're borrowing exact words from an author, use quotation marks, and include the source in parentheses thereafter (author's last name, year: page number). If you're paraphrasing, include the source you're borrowing ideas from in parentheses (author's last name, year). For more information on citation formats, check out the {{% resource_link "26805cf7-7239-4cd6-8853-1d3939f76885" "Chicago Manual of Style Online" %}}.
 
-If you need writing assistance, the [Writing and Communication Center at MIT](http://cmsw.mit.edu/writing-and-communication-center/) offers MIT students free one-on-one professional advice from communication experts.
+If you need writing assistance, the {{% resource_link "b7c1b23a-1d15-418d-ac59-10a268215ed7" "Writing and Communication Center at MIT" %}} offers MIT students free one-on-one professional advice from communication experts.
