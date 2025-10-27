@@ -3,29 +3,27 @@ content_type: page
 description: This section contains the topics for the course and their accompanying
   readings.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 175cb06c-0dff-433a-4348-be5233ecbecd
 ---
-\[C\] = Coles, Kimberley. *Democratic Designs: International Intervention and Electoral Practices in Postwar Bosnia-Herzegovina*. University of Michigan Press, 2007. ISBN: 9780472069859. \[Preview with [Google Books](http://books.google.com/books?id=X_6Q0IvPwKIC&pg=PAfrontcover)\]
+\[C\] = Coles, Kimberley. *Democratic Designs: International Intervention and Electoral Practices in Postwar Bosnia-Herzegovina*. University of Michigan Press, 2007. ISBN: 9780472069859. \[Preview with {{% resource_link "45f3639d-cd5f-4737-9168-9336de9de546" "Google Books" %}}\]
 
 \[I\] = Issenberg, Sasha. *The Victory Lab: The Secret Science of Winning Campaigns*. Broadway Books, 2013. ISBN: 9780307954800.
 
-\[L\] = Lakoff, George. *Moral Politics: How Liberals and Conservative Think*. 3rd edition. University of Chicago Press, 2016. ISBN: 9780226411293. \[Preview with [Google Books](http://books.google.com/books?id=3N_FDAAAQBAJ&pg=PAfrontcover)\]
+\[L\] = Lakoff, George. *Moral Politics: How Liberals and Conservative Think*. 3rd edition. University of Chicago Press, 2016. ISBN: 9780226411293. \[Preview with {{% resource_link "3befd485-ab67-4ffc-8873-13ac3aaf1ae1" "Google Books" %}}\]
 
-\[LE\] = Lempert, Michael, and Michael Silverstein. *Creatures of Politics: Media, Message, and the American Presidency*. Indiana University Press, 2012. ISBN: 9780253007520. \[Preview with [Google Books](http://books.google.com/books?id=TyO5QsCeJQYC&pg=PAfrontcover)\]
+\[LE\] = Lempert, Michael, and Michael Silverstein. *Creatures of Politics: Media, Message, and the American Presidency*. Indiana University Press, 2012. ISBN: 9780253007520. \[Preview with {{% resource_link "df5defd3-7c72-483a-a06a-569ed9080f67" "Google Books" %}}\]
 
-\[N\] = Nielsen, Rasmus Kleis. *Ground Wars: Personalized Communication in Political Campaigns*. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with [Google Books](http://books.google.com/books?id=D0QjX9gn-q4C&pg=PAfrontcover)\]
+\[N\] = Nielsen, Rasmus Kleis. *Ground Wars: Personalized Communication in Political Campaigns*. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with {{% resource_link "fa3e238d-2a52-437a-86c1-5375afb63a9c" "Google Books" %}}\]
 
 \[S\] = Schudson, Michael. *The Good Citizen: A History of American Civic Life*. Free Press, 2011. ISBN: 9781451631623.
 
-\[SG\] = Stromer-Galley, Jennifer. *Presidential Campaigning in the Internet Age*. Oxford University Press, 2014. ISBN: 9780199731947. \[Preview with [Google Books](http://books.google.com/books?id=NIEfAgAAQBAJ&pg=PAfrontcover)\]
+\[SG\] = Stromer-Galley, Jennifer. *Presidential Campaigning in the Internet Age*. Oxford University Press, 2014. ISBN: 9780199731947. \[Preview with {{% resource_link "988a8017-57fa-49d9-a791-04950aec0b9a" "Google Books" %}}\]
 
-\[W\] = Witsoe, Jeffrey. *Democracy Against Development: Lower-Caste Politics and Political Modernity in Postcolonial India*. University of Chicago Press, 2013. ISBN: 9780226063478. \[Preview with [Google Books](http://books.google.com/books?id=sQcGAQAAQBAJ&pg=PAfrontcover)\]
+\[W\] = Witsoe, Jeffrey. *Democracy Against Development: Lower-Caste Politics and Political Modernity in Postcolonial India*. University of Chicago Press, 2013. ISBN: 9780226063478. \[Preview with {{% resource_link "3705634b-936f-423a-9ae2-63c73ca0ba3b" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -127,7 +125,7 @@ Public Opinion and Consensus (1)
 
 \[I\] "Notes."
 
-Lepore, Jill. "[Politics and the New Machine](http://www.newyorker.com/magazine/2015/11/16/politics-and-the-new-machine)." *The New Yorker*, November 16, 2015.
+Lepore, Jill. "{{% resource_link "f013f912-f6b0-4671-9dbb-7765c6c49ea3" "Politics and the New Machine" %}}." *The New Yorker*, November 16, 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -145,9 +143,9 @@ Public Opinion and Consensus (2)
 Consensus by Aggregation
 {{< tdclose >}}{{< tdopen >}}
 
-Bourdieu, Pierre. "[The Mystery of the Ministry: From Particular Wills to the General Will](https://doi.org/10.1111/j.1351-0487.2004.00360.x)." *Constellations* 11, no. 1 (2004): 37–43.
+Bourdieu, Pierre. "{{% resource_link "e895e04c-f3e0-4312-bd85-0b868ddc71ba" "The Mystery of the Ministry: From Particular Wills to the General Will" %}}." *Constellations* 11, no. 1 (2004): 37–43.
 
-Paley, Julia. "[Accountable Democracy: Citizens' Impact on Public Decision Making in Postdictatorship Chile](https://www.jstor.org/stable/4098865)." *American Ethnologist* 31, no. 4 (2004): 497–513.
+Paley, Julia. "{{% resource_link "092b476a-3eaa-41c1-b339-e0ef13be3b72" "Accountable Democracy: Citizens' Impact on Public Decision Making in Postdictatorship Chile" %}}." *American Ethnologist* 31, no. 4 (2004): 497–513.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -157,9 +155,9 @@ Representation and Minorities
 
 \[S\] Chapter 6: Widening the Web of Citizenship in an Age of Private Citizens.
 
-Anderson, Margo J. "Introduction." In *The American Census: A Social History.* 2nd edition. Yale University Press, 2015. ISBN: 9780300195422. \[Preview with [Google Books](http://books.google.com/books?id=XaxJCgAAQBAJ&pg=PA1=onepage)\]
+Anderson, Margo J. "Introduction." In *The American Census: A Social History.* 2nd edition. Yale University Press, 2015. ISBN: 9780300195422. \[Preview with {{% resource_link "db12d945-099d-477a-8926-4a885afbbe78" "Google Books" %}}\]
 
-———. "The Census and the New Nation: Apportionment, Congress, and the Progress of the United States." Chapter 1 in *The American Census: A Social History.* 2nd edition. Yale University Press, 2015, pp. 7–14. ISBN: 9780300195422. \[Preview with [Google Books](http://books.google.com/books?id=XaxJCgAAQBAJ&pg=PA7=onepage)\]
+———. "The Census and the New Nation: Apportionment, Congress, and the Progress of the United States." Chapter 1 in *The American Census: A Social History.* 2nd edition. Yale University Press, 2015, pp. 7–14. ISBN: 9780300195422. \[Preview with {{% resource_link "7e039dc5-8f96-4494-aefd-965604bd8fb2" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -171,7 +169,7 @@ Abrajano, Marisa A. "Campaigning to a Changing American Electorate." Chapter 1 i
 
 ———. "Campaigning to Ethnic and Racial Minorities in the U.S." Chapter 3 in *Campaigning to the New American Electorate: Advertising to Latino Voters*. Stanford University Press, 2010. ISBN: 9780804768962.
 
-Anderson, Benedict. "Nationalism, Identity, and the World-in-Motion: On the Logics of Seriality." In *Cosmopolitics: Thinking and Feeling Beyond the Nation*. Edited by Pheng Cheah and Bruce Robbins. University of Minnesota Press, 1998. ISBN: 9780816630684. \[Preview with [Google Books](http://books.google.com/books?id=4EmqLCWUFvEC&pg=PA117=onepage)\]
+Anderson, Benedict. "Nationalism, Identity, and the World-in-Motion: On the Logics of Seriality." In *Cosmopolitics: Thinking and Feeling Beyond the Nation*. Edited by Pheng Cheah and Bruce Robbins. University of Minnesota Press, 1998. ISBN: 9780816630684. \[Preview with {{% resource_link "9f6a25f1-2846-4d98-b311-ef40ae103f18" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Candidate Branding**
@@ -183,7 +181,7 @@ Campaigning for Hearts and Minds
 
 Brader, Ted. "Appealing to Hopes and Fears." Chapter 1 in *Campaigning for Hearts and Minds: How Emotional Appeals in Political Ads Work*. University of Chicago Press, 2006. ISBN: 9780226069890.
 
-———. "The Art and Science of Campaigning." Chapter 2 in *Campaigning for Hearts and Minds: How Emotional Appeals in Political Ads Work*. University of Chicago Press, 2006. ISBN: 9780226069890. \[Preview with [Google Books](https://books.google.com/books?id=T-mU2L3GgMIC&pg=PA17)\]
+———. "The Art and Science of Campaigning." Chapter 2 in *Campaigning for Hearts and Minds: How Emotional Appeals in Political Ads Work*. University of Chicago Press, 2006. ISBN: 9780226069890. \[Preview with {{% resource_link "4dbc7f41-3142-4c5c-a419-281134a1c39e" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -203,9 +201,9 @@ Celebrity Politics
 
 \[LE\] Chapter 4: Ethno-Blooperology.
 
-Hall, Kira, Donna M. Goldstein, et al. "[The Hands of Donald Trump: Entertainment, Gesture, Spectacle](https://doi.org/10.14318/hau6.2.009)." *Journal of Ethnographic Theory* 6, no. 2 (2016): 71–100.
+Hall, Kira, Donna M. Goldstein, et al. "{{% resource_link "ece84807-3f27-4e13-8ed8-ce14b8d8d98f" "The Hands of Donald Trump: Entertainment, Gesture, Spectacle" %}}." *Journal of Ethnographic Theory* 6, no. 2 (2016): 71–100.
 
-Rao, Ursula. "[Neoliberalism and the Rewriting of the Indian Leader](https://doi.org/10.1111/j.1548-1425.2010.01280.x)." *American Ethnologist* 37, no. 4 (2010): 713–25.
+Rao, Ursula. "{{% resource_link "b2126e86-2c13-4f0e-9c4c-f3556ecbdc63" "Neoliberalism and the Rewriting of the Indian Leader" %}}." *American Ethnologist* 37, no. 4 (2010): 713–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -219,7 +217,7 @@ Popular Politics
 
 \[W\] "Notes."
 
-Laclau, Ernesto. "Populism: What's in a Name?" Chapter 1 in *Populism and the Mirror of Democracy*. Edited by Francisco Panizza. Verso, 2005. ISBN: 9781859844892. \[Preview with [Google Books](http://books.google.com/books?id=swBC1B35DbEC&pg=PA32=onepage)\]
+Laclau, Ernesto. "Populism: What's in a Name?" Chapter 1 in *Populism and the Mirror of Democracy*. Edited by Francisco Panizza. Verso, 2005. ISBN: 9781859844892. \[Preview with {{% resource_link "e7bc73e7-0e5a-4c03-b1d7-103867d2dfab" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -277,23 +275,23 @@ Ground Wars (4)
 
 *A Great Resource to Understand Fake News*
 
-Zimdars, Melissa. "[My 'Fake News List' Went Viral. But Made-up Stories are Only Part of the Problem](https://www.washingtonpost.com/posteverything/wp/2016/11/18/my-fake-news-list-went-viral-but-made-up-stories-are-only-part-of-the-problem/?utm_term=.1e6103574e03)," *Washington Post*, November 18, 2016.
+Zimdars, Melissa. "{{% resource_link "c25acbc3-f683-4fcb-98a9-47e1d57e1429" "My 'Fake News List' Went Viral. But Made-up Stories are Only Part of the Problem" %}}," *Washington Post*, November 18, 2016.
 
 *A Controversial Legitimate Article*
 
-Timberg, Craig. "[Russian Propaganda Effort Helped Spread 'Fake News' During Election, Experts Say](https://www.washingtonpost.com/business/economy/russian-propaganda-effort-helped-spread-fake-news-during-election-experts-say/2016/11/24/793903b6-8a40-4ca9-b712-716af66098fe_story.html?tid=a_inl&utm_term=.b917fc73133c)," *Washington Post*, November 24, 2016.
+Timberg, Craig. "{{% resource_link "934b6256-ecbe-43b6-8dfd-9b953b11c1e4" "Russian Propaganda Effort Helped Spread 'Fake News' During Election, Experts Say" %}}," *Washington Post*, November 24, 2016.
 
 *Fake News*
 
-Olson, Kyle. "[Hillary Threw Americans into 'Bucket of Losers' in Wall Street Speech](http://www.theamericanmirror.com/wall-street-speech-hillary-threw-americans-bucket-losers/)," October 7, 2016, theamericanmirror.com.
+Olson, Kyle. "{{% resource_link "27d22ea9-8208-4f88-9499-12a5a22d8cd9" "Hillary Threw Americans into 'Bucket of Losers' in Wall Street Speech" %}}," October 7, 2016, theamericanmirror.com.
 
 *Native Advertisement*
 
-"[15 Things We Did At School That Future Students Will Never Understand](https://www.buzzfeed.com/intel/things-we-did-at-school-that-future-students-will-never-u?utm_term=.knAZkJGeb#.ejw1gL46B)," August 11, 2014, buzzfeed.com.
+"{{% resource_link "a2261578-f1db-49d1-bbad-e67eea00ed1b" "15 Things We Did At School That Future Students Will Never Understand" %}}," August 11, 2014, buzzfeed.com.
 
 *Satirical News*
 
-Borowitz, Andy. "[Mexican President Says He Made Trump Pay for Lunch](http://www.newyorker.com/humor/borowitz-report/mexican-president-says-he-made-trump-pay-for-lunch)." *The New Yorker*, September 1, 2016.
+Borowitz, Andy. "{{% resource_link "7f619dc5-e49c-4c09-9a77-43512c2a7748" "Mexican President Says He Made Trump Pay for Lunch" %}}." *The New Yorker*, September 1, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24

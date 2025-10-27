@@ -67,7 +67,7 @@ Citizens / Consumers
 
 *Screening*
 
-JustAdamCurtis. "[The Century of the Self - Part I: 'Happiness Machines](https://www.youtube.com/watch?v=DnPmg0R1M04)'." June 20, 2016. YouTube.
+JustAdamCurtis. "{{% resource_link "b76d76bc-7c8a-4bda-91ab-c57b9b849296" "The Century of the Self - Part I: 'Happiness Machines" %}}'." June 20, 2016. YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 1: Ad Analysis due
@@ -139,7 +139,7 @@ Politics on the Ground
 
 *Screening*
 
-[*Street Fight*](http://www.imdb.com/title/tt0457496/?ref_=fn_al_tt_2). Directed by Marshall Curry. Color, 83 min. 2005.
+{{% resource_link "3abcc057-a710-46f4-9c61-5db029f41328" "*Street Fight*" %}}. Directed by Marshall Curry. Color, 83 min. 2005.
 
 {{< tdclose >}}{{< tdopen >}}
  
