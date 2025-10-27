@@ -33,7 +33,7 @@ _Below, Maria Vidart-Delgado responds to questions about how she taught_ 21A.506
 
 **OCW**: Some educators might shy away from facilitating classroom discussions about emotionally heated topics, like elections. Tell us about your decision to create a course around this topic.
 
-**Maria Vidart-Delgado:** We need more classroom discussions about uncomfortable topics. I strived to provide a safe space in which all points of view were welcome, but in which we could also openly discuss the real-world implications of our assumptions. [I wrote a blogpost about this issue](http://savageminds.org/2016/12/07/teaching-the-anthropology-of-elections-in-times-of-trump/). 
+**Maria Vidart-Delgado:** We need more classroom discussions about uncomfortable topics. I strived to provide a safe space in which all points of view were welcome, but in which we could also openly discuss the real-world implications of our assumptions. {{% resource_link "d4407ba7-9989-4ab2-b7a6-80a7e0f706f7" "I wrote a blogpost about this issue" %}}. 
 
 **OCW**: Please tell us about the mini-ethnography assignment.
 
@@ -65,7 +65,7 @@ None
 
 HASS-H ![](/images/educator/icon-question-hass-h.png)
 
-21A.506 can be applied toward a [Bachelor of Science in Anthropology](http://anthropology.mit.edu/undergraduate/requirements), [Humanities and Engineering](http://anthropology.mit.edu/undergraduate/requirements), or [Humanities and Science](http://anthropology.mit.edu/undergraduate/requirements), but is not required.
+21A.506 can be applied toward a {{% resource_link "9c9fc6c2-84a3-44f9-80ef-b3d3d7c1d8e4" "Bachelor of Science in Anthropology" %}}, {{% resource_link "9c9fc6c2-84a3-44f9-80ef-b3d3d7c1d8e4" "Humanities and Engineering" %}}, or {{% resource_link "9c9fc6c2-84a3-44f9-80ef-b3d3d7c1d8e4" "Humanities and Science" %}}, but is not required.
 
 ### Offered
 
